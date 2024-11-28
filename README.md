@@ -1,4 +1,4 @@
-# Save-WeChat-Video-Account
+# 视频号视频提取工具提取视频（Save-WeChat-Video-Account）
 很多经常看微信视频号上的视频却不知道怎么下载的用户？一直好奇视频提取器工具如何将微信视频号中的视频保存至相册？其实保存视频号视频很简单！
 
 ![视频提取器工具下载视频号视频](https://img.dcyzq.com/pic-fly/21479be4-3437-41eb-8dd1-e4a0cc4e8b76/33fw5u6uv-1732774675555.png)
